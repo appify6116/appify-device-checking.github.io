@@ -1,0 +1,1 @@
+# appify-device-checking.github.io
